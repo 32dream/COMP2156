@@ -1,13 +1,13 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "",
+  "description": "Comp2156 lab exercise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Warning: No tests created yet.\""
 
   },
   "keywords": [],
-  "author": "",
+  "author": "Ts Yuk Chan",
   "license": "ISC"
 }
